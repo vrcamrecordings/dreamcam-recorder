@@ -24,7 +24,7 @@ CaptureGem can be [found here](https://www.capturegem.com).
 The app automatically generates thumbnail grids for all your recordings so you can quickly preview the content. In the Review Tab, you can see these. Additionally, you can
 filter your saved recordings by model and watch past recordings.
 
-<img width="500" src="https://github.com/vrcamrecordings/Dreamcam-recorder/assets/155075920/566aa9f0-45be-458b-89b1-450dad8d4e7a" alt="Dreamcam Recording Review Feature">
+<img width="500" src="https://github.com/vrcamrecordings/Dreamcam-recorder/assets/155075920/f57478be-9b15-4e7d-97ee-ffa6c79279cf" alt="Dreamcam Recording Review Feature">
 
 ## Further Details
 
